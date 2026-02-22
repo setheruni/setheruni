@@ -8,7 +8,7 @@ My background spans SQL Server, .NET development, and full-stack web work, with 
 
 ## Featured Project
 
-### 🎪 BounceBook — Party Rental Platform
+### 🎪 BounceBook | Party Rental Platform
 
 A full-stack rental management system built from scratch to show how the pieces I work with every day fit together as a connected system. A real problem, a real data model, and a real API that two different front ends talk to simultaneously.
 
